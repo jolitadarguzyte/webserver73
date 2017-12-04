@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frankgoldmann/webserver73.git"
+    "url": "git+https://github.com/jolitadarguzyte/webserver73.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/frankgoldmann/webserver73/issues"
+    "url": "https://github.com/jolitadarguzyte/webserver73/issues"
   },
-  "homepage": "https://github.com/frankgoldmann/webserver73#readme",
+  "homepage": "https://github.com/jolitadarguzyte/webserver73#readme",
   "dependencies": {
     "path": "^0.12.7",
     "restify": "^6.3.4"
