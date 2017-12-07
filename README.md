@@ -74,13 +74,13 @@ vil komme følgende spørgmål:
  Naviger ind i mappen
      cd ~/www  -Enter
 
- 7. Klon dit repository fra GitHub  
+ 7. Clone dit repository fra GitHub  
          git clone git@github.com:jolitadarguzyte/expressjs  
            (i brugernavn vi skrive det navn vi skal flytte) og -Enter
 
  Efte du kan prøve åbne en fane og skrive IPadres eksemp:  95.85.22.162:3000 (3000 den port vi fik ved at skrive)  
 
- Husk clone projekt på Github 
+ Husk clone projekt på Github (og det skal være på din egen navn: dvs når du åbne projekt lige føre du clone du skal Førk først og efte clone - så vi det være på din navn og du kan redigere.) 
  Du kan redigere info og gemt det (husk comment og push i Visio)
  (og når du har en opdatering, skal du lave et pull)
 
